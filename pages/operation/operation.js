@@ -7,7 +7,7 @@ Page({
   data: {
     areaId: undefined,
     areaName: '',
-    priority: '',
+    priority: '', 
     addUrl: "http://127.0.0.1:8080/superadmin/addarea",
     modifyUrl: "http://127.0.0.1:8080/superadmin/modifyarea"
 
